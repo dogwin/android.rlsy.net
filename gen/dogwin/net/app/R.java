@@ -38,33 +38,33 @@ public final class R {
         public static final int titlebar_big=0x7f02000e;
     }
     public static final class id {
-        public static final int action_settings=0x7f080009;
+        public static final int action_settings=0x7f080008;
         public static final int allApps=0x7f080004;
         public static final int auto_bg=0x7f080000;
         public static final int bookShelf=0x7f080002;
-        public static final int books=0x7f08000c;
-        public static final int btn_leftTop=0x7f080006;
-        public static final int btn_rightTop=0x7f080008;
-        public static final int buddha=0x7f08000b;
+        public static final int books=0x7f08000b;
+        public static final int buddha=0x7f08000a;
         public static final int head=0x7f080001;
+        public static final int imageView1=0x7f080006;
         public static final int imageViewIcon=0x7f080005;
-        public static final int liberation=0x7f08000a;
-        public static final int logout=0x7f080012;
-        public static final int master=0x7f08000f;
-        public static final int menuLogin=0x7f080014;
-        public static final int music=0x7f08000d;
-        public static final int quit=0x7f080013;
-        public static final int setting=0x7f080010;
+        public static final int liberation=0x7f080009;
+        public static final int logout=0x7f080011;
+        public static final int master=0x7f08000e;
+        public static final int menuLogin=0x7f080013;
+        public static final int music=0x7f08000c;
+        public static final int quit=0x7f080012;
+        public static final int setting=0x7f08000f;
         public static final int sliding=0x7f080003;
-        public static final int story=0x7f08000e;
+        public static final int story=0x7f08000d;
         public static final int tv_head=0x7f080007;
-        public static final int update=0x7f080011;
+        public static final int update=0x7f080010;
     }
     public static final class layout {
         public static final int app=0x7f030000;
         public static final int autoupdata=0x7f030001;
         public static final int bookapp=0x7f030002;
-        public static final int head=0x7f030003;
+        public static final int bookitem=0x7f030003;
+        public static final int head=0x7f030004;
     }
     public static final class menu {
         public static final int app=0x7f070000;

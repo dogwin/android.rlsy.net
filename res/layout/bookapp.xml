@@ -6,7 +6,7 @@
 	android:layout_height="fill_parent"
 >
 <include layout="@layout/head" android:id="@+id/head"/>
-	<cn.com.karl.view.MyGridView
+	<dogwin.net.books.MyGridView
 	    android:id="@+id/bookShelf"
 	    android:layout_width="fill_parent"
 	    android:layout_height="fill_parent"
