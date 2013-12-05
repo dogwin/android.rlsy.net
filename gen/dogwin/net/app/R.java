@@ -42,10 +42,10 @@ public final class R {
         public static final int allApps=0x7f080004;
         public static final int auto_bg=0x7f080000;
         public static final int bookShelf=0x7f080002;
+        public static final int bookitem=0x7f080006;
         public static final int books=0x7f08000b;
         public static final int buddha=0x7f08000a;
         public static final int head=0x7f080001;
-        public static final int imageView1=0x7f080006;
         public static final int imageViewIcon=0x7f080005;
         public static final int liberation=0x7f080009;
         public static final int logout=0x7f080011;
