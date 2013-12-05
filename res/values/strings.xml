@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">如来实义</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="serverurl">http://www.rlsy.net/app/version</string>
+    <string name="loginurl">http://www.rlsy.net/app/login</string>
+	<string name="booktypeurl">http://www.rlsy.net/upload/apps/books.txt</string>
+	<string name="booklisturl">http://www.rlsy.net/app/booklist</string>
+	<string name="readbookurl">http://www.rlsy.net/app/readbook</string>
+    <!-- menu begin -->
+    <string name="buddha">诸佛菩萨</string>
+    <string name="music">佛教音乐</string>
+    <string name="books">佛教经典</string>
+    <string name="story">佛教故事</string>
+    <string name="master">祖师大德</string>
+    <string name="setting">系统设置</string>
+    <string name="update">系统升级</string>
+    <string name="logout">注销</string>
+    <string name="quit">退出</string>
+    <string name="menuLogin">登陆</string>
+</resources>

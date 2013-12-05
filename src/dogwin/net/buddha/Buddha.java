@@ -1,0 +1,1 @@
+package dogwin.net.buddha;public class Buddha {}
