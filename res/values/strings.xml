@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
 	<string name="serverurl">http://www.rlsy.net/app/version</string>
     <string name="loginurl">http://www.rlsy.net/app/login</string>
-	<string name="booktypeurl">http://www.rlsy.net/upload/apps/books.txt</string>
+	<string name="booktypeurl">http://www.rlsy.net/app/bookType</string>
 	<string name="booklisturl">http://www.rlsy.net/app/booklist</string>
 	<string name="readbookurl">http://www.rlsy.net/app/readbook</string>
     <!-- menu begin -->
